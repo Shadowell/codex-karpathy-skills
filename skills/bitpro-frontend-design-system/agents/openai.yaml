@@ -1,0 +1,4 @@
+interface:
+  display_name: "BitPro Frontend Design System"
+  short_description: "BitPro 前端页面设计、Figma 评审和浏览器验收规则。"
+  default_prompt: "Use bitpro-frontend-design-system when designing or changing BitPro frontend UI."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "BitPro Icon Design System"
+  short_description: "BitPro 图标设计、lucide 使用和自定义标识规则。"
+  default_prompt: "Use bitpro-icon-design-system when designing or changing BitPro icons, route symbols, module marks, strategy badges, or SVG/icon assets."
