@@ -1,0 +1,4 @@
+interface:
+  display_name: "BitPro Docs Maintainer"
+  short_description: "Maintain BitPro docs and contracts"
+  default_prompt: "Use $bitpro-docs-maintainer to update BitPro docs, contracts, progress notes, and verification status after this change."

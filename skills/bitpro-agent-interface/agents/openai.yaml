@@ -1,0 +1,4 @@
+interface:
+  display_name: "BitPro Agent Interface"
+  short_description: "BitPro 对外 stdio/streamable-http MCP 接口调用和反问规则。"
+  default_prompt: "Use $bitpro-agent-interface to choose stable BitPro MCP tools, discover stdio or streamable-http transport, read the smoke runbook when validating the full flow, and ask the minimum required clarification before calling tools."
